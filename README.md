@@ -1,8 +1,6 @@
 # Cracking-Bengaluru-s-Food-Code
 ## Unravel the patterns behind Bengaluru’s booming restaurant industry and the flavors that keep it thriving.
-
-
-	
+![image](https://github.com/user-attachments/assets/6379d7b8-1dcd-4e22-b3cf-307517dd2020)
 
 ### 1. Loading required libraries
 
@@ -25,21 +23,20 @@
 - Heatmap of North Indian restaurants
 - What about South Indian cuisines?
 ### 4. Analysing Restaurant chains
-	- Which are the most popular casual dining restaurant chains?
-	- Where are their outlets located?
-	- Top quick bites restaurant chains in Banglore
-	- Where are their outlets located?
-	- Top Cafes of Banglore?
-	- Where are their outlets located?
-	- Wordcloud of dishes liked by cuisines.
+- Which are the most popular casual dining restaurant chains?
+- Where are their outlets located?
+- Top quick bites restaurant chains in Banglore
+- Where are their outlets located?
+- Top Cafes of Banglore?
+- Where are their outlets located?
+- Wordcloud of dishes liked by cuisines.
 ### 5. Analysing Reviews
-	- Wordcloud of restaurant reviews
-	- Rating distribution
+- Wordcloud of restaurant reviews
+- Rating distribution
 ### 6. Topic modelling
-	- Topic modelling for positive comments
-	- Topic modelling for positive comments
+- Topic modelling for positive comments
+- Topic modelling for positive comments
 ### 7. Sentimental Analysis on Reviews
-
-	- Data preparation
-	- Building our model
-	- Validation
+- Data preparation
+- Building our model
+- Validation
